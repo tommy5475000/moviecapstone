@@ -1,9 +1,9 @@
 # Thông tin nhóm :
- - Đỗ Thị Thảo.
+ - Hà Đạt Cường
 
 # Acount Admin :
-- Tên tài khoản : adminsa
-- Mật khẩu : 123456Sa
+- Tên tài khoản : cuong
+- Mật khẩu : Cuong123
 
 
 # Cấu trúc project
