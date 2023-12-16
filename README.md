@@ -5,6 +5,8 @@
 - Tên tài khoản : cuong
 - Mật khẩu : Cuong123
 
+ # Link deloy :
+-https://moviecapstone-alpha.vercel.app/
 
 # Cấu trúc project
 src
